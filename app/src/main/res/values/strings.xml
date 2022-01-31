@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WunderMobilityAssignment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="enterCarDetails">Enter car details</string>
+    <string name="title">Title</string>
+    <string name="isClean">Is clean</string>
+    <string name="isDamaged">Is damaged</string>
+    <string name="licencePlate">Licence plate</string>
+    <string name="fuelLevel">Fuel level</string>
+    <string name="CitypricingTime">Pricing time</string>
+    <string name="pricingParking">Pricing parking</string>
+    <string name="address">Address</string>
+    <string name="zipCode">Zip code</string>
+    <string name="city">City</string>
+    <string name="lat">Lat</string>
+    <string name="pricingTime">Pricing time</string>
+    <string name="lon">Lon</string>
+    <string name="damageDescription">Damage description:</string>
+    <string name="quickRent">Quick rent</string>
+    <string name="somethingWrongWithThisCar">Something wrong with this car</string>
+    <string name="noTitle">No title</string>
+    <string name="carDetails">Car details</string>
+    <string name="rentedSuccessfully">Rented successfully</string>
+</resources>
